@@ -7,7 +7,7 @@
             int[] example = { 4, 2, 6, 5 };
             foreach(int i in Result(example))
             {
-                Console.WriteLine(i);
+                Console.Write($"{i} ");
             }
         }
         public static int[] Result(int[] nums)
