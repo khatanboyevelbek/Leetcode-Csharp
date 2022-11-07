@@ -5,7 +5,9 @@ VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunningSum", "RunningSum\RunningSum.csproj", "{BE96A1EA-B521-492D-8558-35845579D5CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PivotIndex", "PivotIndex\PivotIndex.csproj", "{EFE7EFE6-A95F-4FA9-B51E-5386FF7957D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PivotIndex", "PivotIndex\PivotIndex.csproj", "{EFE7EFE6-A95F-4FA9-B51E-5386FF7957D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{017C1196-DB28-4E5F-9E3A-4F7131487AFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EFE7EFE6-A95F-4FA9-B51E-5386FF7957D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFE7EFE6-A95F-4FA9-B51E-5386FF7957D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFE7EFE6-A95F-4FA9-B51E-5386FF7957D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017C1196-DB28-4E5F-9E3A-4F7131487AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017C1196-DB28-4E5F-9E3A-4F7131487AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017C1196-DB28-4E5F-9E3A-4F7131487AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017C1196-DB28-4E5F-9E3A-4F7131487AFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
