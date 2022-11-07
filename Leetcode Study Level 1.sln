@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunningSum", "RunningSum\Ru
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PivotIndex", "PivotIndex\PivotIndex.csproj", "{EFE7EFE6-A95F-4FA9-B51E-5386FF7957D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{017C1196-DB28-4E5F-9E3A-4F7131487AFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{017C1196-DB28-4E5F-9E3A-4F7131487AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsomorphicStrings", "IsomorphicStrings\IsomorphicStrings.csproj", "{2904D149-91A1-42E7-BC66-F0EEE58B5B4A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{017C1196-DB28-4E5F-9E3A-4F7131487AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{017C1196-DB28-4E5F-9E3A-4F7131487AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{017C1196-DB28-4E5F-9E3A-4F7131487AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2904D149-91A1-42E7-BC66-F0EEE58B5B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2904D149-91A1-42E7-BC66-F0EEE58B5B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2904D149-91A1-42E7-BC66-F0EEE58B5B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2904D149-91A1-42E7-BC66-F0EEE58B5B4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
