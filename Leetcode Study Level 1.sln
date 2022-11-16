@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsomorphicStrings", "IsomorphicStrings\IsomorphicStrings.csproj", "{2904D149-91A1-42E7-BC66-F0EEE58B5B4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{71CC016E-FE34-48A9-92F9-8780FEF31205}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{71CC016E-FE34-48A9-92F9-8780FEF31205}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanInteger", "RomanInteger\RomanInteger.csproj", "{AF0E376B-AD55-45DD-B14C-901E38CAAAC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{71CC016E-FE34-48A9-92F9-8780FEF31205}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71CC016E-FE34-48A9-92F9-8780FEF31205}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71CC016E-FE34-48A9-92F9-8780FEF31205}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF0E376B-AD55-45DD-B14C-901E38CAAAC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF0E376B-AD55-45DD-B14C-901E38CAAAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF0E376B-AD55-45DD-B14C-901E38CAAAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF0E376B-AD55-45DD-B14C-901E38CAAAC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,10 +10,10 @@
         {
             int reverseNumber = 0;
             int num = x;
-            //if (x <= 9)
-            //{
-            //    return x;
-            //}
+            if (x <= 9)
+            {
+                return false;
+            }
             while (x >= 1)
             {
                 reverseNumber = reverseNumber * 10 + x % 10;
