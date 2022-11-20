@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsomorphicStrings", "Isomor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsPalindrome", "IsPalindrome\IsPalindrome.csproj", "{71CC016E-FE34-48A9-92F9-8780FEF31205}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanInteger", "RomanInteger\RomanInteger.csproj", "{AF0E376B-AD55-45DD-B14C-901E38CAAAC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanInteger", "RomanInteger\RomanInteger.csproj", "{AF0E376B-AD55-45DD-B14C-901E38CAAAC6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
